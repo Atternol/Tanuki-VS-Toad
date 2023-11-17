@@ -2497,3 +2497,1202 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2023.11.17-06.15.24:000][964]AssetCheck: New page: Asset Save: multiple assets
 [2023.11.17-06.15.24:000][964]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Duel.MAP_Duel
 [2023.11.17-06.15.24:000][964]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_Player.BP_Samurai_Player
+[2023.11.17-06.17.12:672][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Samurai_NPC.BP_Samurai_NPC
+[2023.11.17-06.17.12:674][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.17.12:674][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.17.12:838][638]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.11.17-06.17.27:135][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.11.17-06.17.27:142][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.17.27:170][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_NPC" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset" SILENT=true
+[2023.11.17-06.17.27:175][835]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_NPC
+[2023.11.17-06.17.27:175][835]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Samurai_NPC461A90C2412D7308F245A2BA4BDD3BC2.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset'
+[2023.11.17-06.17.27:181][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.29 sec)
+[2023.11.17-06.17.27:185][835]AssetCheck: New page: Asset Save: BP_Samurai_NPC
+[2023.11.17-06.17.27:185][835]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_NPC.BP_Samurai_NPC
+[2023.11.17-06.17.27:985][928]BlueprintLog: New page: Compile BP_Samurai_NPC
+[2023.11.17-06.17.28:018][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.11.17-06.17.58:027][731]BlueprintLog: New page: Compile BP_Samurai_NPC
+[2023.11.17-06.17.58:069][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.17-06.17.58:511][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.17-06.17.58:516][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.17.58:535][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai_NPC" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset" SILENT=true
+[2023.11.17-06.17.58:539][767]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai_NPC
+[2023.11.17-06.17.58:539][767]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Samurai_NPC534B2B8444CB2E08C333F88B9EFB4BF5.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset'
+[2023.11.17-06.17.58:546][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.32 sec)
+[2023.11.17-06.17.58:548][767]AssetCheck: New page: Asset Save: BP_Samurai_NPC
+[2023.11.17-06.17.58:548][767]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai_NPC.BP_Samurai_NPC
+[2023.11.17-06.18.00:605][  8]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-06.18.00:610][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-06.18.00:610][  8]PIE: New page: PIE session: MAP_Duel (Nov 16, 2023, 2:18:00 PM)
+[2023.11.17-06.18.00:610][  8]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.18.00:611][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001135s)
+[2023.11.17-06.18.00:611][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001171s)
+[2023.11.17-06.18.00:630][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.17-06.18.00:631][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.18.00:632][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.18.00:633][  8]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.17-06.18.00:633][  8]LogPlayLevel: PIE: World Init took: (0.002571s)
+[2023.11.17-06.18.00:634][  8]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.11.17-06.18.00:634][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-06.18.00:634][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-06.18.00:634][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-06.18.00:634][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-06.18.00:634][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-06.18.00:634][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-06.18.00:634][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-06.18.00:634][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-06.18.00:634][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-06.18.00:634][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-06.18.00:634][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-06.18.00:636][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-06.18.00:672][  8]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.17-06.18.00:672][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-06.18.00:672][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-06.18.00:672][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-06.18.00:673][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.11.17-06.18.00:673][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.11.17-06.18.00:675][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.11.17-06.18.00:675][  8]LogInit: FAudioDevice initialized with ID 18.
+[2023.11.17-06.18.00:675][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.11.17-06.18.00:675][  8]LogAudio: Display: Audio Device (ID: 18) registered with world 'MAP_Duel'.
+[2023.11.17-06.18.00:675][  8]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.17-06.18.00:678][  8]LogLoad: Game class is 'GameModeBase'
+[2023.11.17-06.18.00:678][  8]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.16-22.18.00
+[2023.11.17-06.18.00:678][  8]LogWorld: Bringing up level for play took: 0.000609
+[2023.11.17-06.18.00:681][  8]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.11.17-06.18.00:682][  8]PIE: Server logged in
+[2023.11.17-06.18.00:683][  8]PIE: Play in editor total start time 0.073 seconds.
+[2023.11.17-06.18.01:831][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.18.01:831][129]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.18.01:831][129]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-06.18.01:831][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.18.01:844][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-06.18.01:848][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.18.01:863][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.18.01:863][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.17-06.18.01:863][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.17-06.18.01:865][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.17-06.18.01:872][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.17-06.18.01:915][130]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.11.17-06.19.31:803][136]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.17-06.19.31:812][136]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.17-06.19.31:818][136]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.17-06.19.31:827][137]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.17-06.19.36:471][248]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.11.17-06.19.36:480][248]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.17-06.19.41:101][781]LogContentBrowser: Attempting asset rename: NewBlueprint -> GM_Duel
+[2023.11.17-06.19.41:277][781]LogMetaData: Removing '/Game/Blueprints/GM_Duel.GM_Duel:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.11.17-06.19.41:277][781]LogMetaData: Removing '/Game/Blueprints/GM_Duel.SKEL_GM_Duel_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.11.17-06.19.41:277][781]LogMetaData: Removing '/Game/Blueprints/GM_Duel.SKEL_GM_Duel_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.11.17-06.19.41:277][781]LogMetaData: Removing '/Game/Blueprints/GM_Duel.GM_Duel_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.11.17-06.19.41:277][781]LogMetaData: Removing '/Game/Blueprints/GM_Duel.GM_Duel:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.11.17-06.19.41:277][781]LogMetaData: Removing '/Game/Blueprints/GM_Duel.GM_Duel:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.11.17-06.19.41:286][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.19.41:322][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.19.41:325][781]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.19.41:325][781]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_Duel45FDDC7640FF166CCDF336A036E875E6.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.19.41:336][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.37 sec)
+[2023.11.17-06.19.41:362][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.17-06.19.41:380][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.17-06.19.41:398][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.17-06.19.41:400][781]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.19.41:400][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.19.56:653][ 48]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.19.56:653][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.19.56:653][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.19.56:859][ 48]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.11.17-06.20.12:143][945]LogSlate: Took 0.006510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.17-06.20.16:463][300]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.20.16:490][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.17-06.20.16:884][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.17-06.20.16:888][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.20.16:914][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.20.16:917][340]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.20.16:917][340]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_Duel196021F54DF5F5583D946ABAB1013A4A.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.20.16:924][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.41 sec)
+[2023.11.17-06.20.16:926][340]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.20.16:926][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.21.43:843][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.17-06.21.43:847][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.21.43:873][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.21.43:877][169]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.21.43:877][169]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_DuelE2A2813B45396513ABA3A6B9C9EFEC4A.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.21.43:882][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.45 sec)
+[2023.11.17-06.21.43:887][169]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.21.43:887][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.21.44:748][272]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.21.44:774][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.17-06.22.36:279][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.11.17-06.22.37:116][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.17-06.22.37:712][417]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-06.22.37:717][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-06.22.37:717][417]PIE: New page: PIE session: MAP_Duel (Nov 16, 2023, 2:22:37 PM)
+[2023.11.17-06.22.37:717][417]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.22.37:718][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001064s)
+[2023.11.17-06.22.37:718][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001096s)
+[2023.11.17-06.22.37:734][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.17-06.22.37:735][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.22.37:735][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.22.37:735][417]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.17-06.22.37:736][417]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2023.11.17-06.22.37:736][417]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.11.17-06.22.37:736][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-06.22.37:736][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-06.22.37:736][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-06.22.37:736][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-06.22.37:736][417]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-06.22.37:736][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-06.22.37:736][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-06.22.37:736][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-06.22.37:737][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-06.22.37:737][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-06.22.37:737][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-06.22.37:739][417]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-06.22.37:775][417]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.17-06.22.37:775][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-06.22.37:775][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-06.22.37:775][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-06.22.37:777][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.11.17-06.22.37:777][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.11.17-06.22.37:779][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.11.17-06.22.37:779][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.11.17-06.22.37:779][417]LogInit: FAudioDevice initialized with ID 19.
+[2023.11.17-06.22.37:779][417]LogAudio: Display: Audio Device (ID: 19) registered with world 'MAP_Duel'.
+[2023.11.17-06.22.37:779][417]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.17-06.22.37:782][417]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.17-06.22.37:782][417]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.16-22.22.37
+[2023.11.17-06.22.37:783][417]LogWorld: Bringing up level for play took: 0.000754
+[2023.11.17-06.22.37:785][417]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.11.17-06.22.37:786][417]PIE: Server logged in
+[2023.11.17-06.22.37:787][417]PIE: Play in editor total start time 0.07 seconds.
+[2023.11.17-06.22.37:788][417]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:807][418]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:913][419]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:934][420]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:942][421]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:950][422]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:959][423]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:967][424]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:975][425]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:983][426]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.37:992][427]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:000][428]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:009][429]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:017][430]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:025][431]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:034][432]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:042][433]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:050][434]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:059][435]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:067][436]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:075][437]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:083][438]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:092][439]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:100][440]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:109][441]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:117][442]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:126][443]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:134][444]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:142][445]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:151][446]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:159][447]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:167][448]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:176][449]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:184][450]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:192][451]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:201][452]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:209][453]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:217][454]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:226][455]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:234][456]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:242][457]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:251][458]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:259][459]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:267][460]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:276][461]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:284][462]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:292][463]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:301][464]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:308][465]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:317][466]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:325][467]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:333][468]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:342][469]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:350][470]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:359][471]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:367][472]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:375][473]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:383][474]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:392][475]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:400][476]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:409][477]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:417][478]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:425][479]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:433][480]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:442][481]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:450][482]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:458][483]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:467][484]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:475][485]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:483][486]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:492][487]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:500][488]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:509][489]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:517][490]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:525][491]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:534][492]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:542][493]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:551][494]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:559][495]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:567][496]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:576][497]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:584][498]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:592][499]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:601][500]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:609][501]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:617][502]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:626][503]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:638][504]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:646][505]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:655][506]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:663][507]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:671][508]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:679][509]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:687][510]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:696][511]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:704][512]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:712][513]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:720][514]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:729][515]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:737][516]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:746][517]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:754][518]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:762][519]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:771][520]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:779][521]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:787][522]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:796][523]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:804][524]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:813][525]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:821][526]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:829][527]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:837][528]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:846][529]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:854][530]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:863][531]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:871][532]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:879][533]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:888][534]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:896][535]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:904][536]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:913][537]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:921][538]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:929][539]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:938][540]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:946][541]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:954][542]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:963][543]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:971][544]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:979][545]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:988][546]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.38:996][547]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.39:004][548]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.39:105][560]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.22.39:142][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.22.39:142][560]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.22.39:142][560]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-06.22.39:142][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.22.39:147][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-06.22.39:152][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.22.39:166][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.22.39:167][560]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.17-06.22.39:167][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.17-06.22.39:168][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.17-06.22.39:175][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.17-06.22.39:209][563]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.11.17-06.23.02:520][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.17-06.23.02:525][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.23.02:551][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.23.02:557][436]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.23.02:557][436]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_Duel3DF49B86434D98169BF9BC8A15FD9C85.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.23.02:564][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.49 sec)
+[2023.11.17-06.23.02:566][436]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.23.02:566][436]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.23.02:931][480]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.23.02:957][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.17-06.23.04:330][637]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-06.23.04:334][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-06.23.04:334][637]PIE: New page: PIE session: MAP_Duel (Nov 16, 2023, 2:23:04 PM)
+[2023.11.17-06.23.04:334][637]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.23.04:335][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001183s)
+[2023.11.17-06.23.04:335][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001218s)
+[2023.11.17-06.23.04:349][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.17-06.23.04:350][637]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.23.04:350][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.23.04:351][637]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.17-06.23.04:351][637]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2023.11.17-06.23.04:351][637]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.11.17-06.23.04:351][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-06.23.04:351][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-06.23.04:351][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-06.23.04:351][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-06.23.04:351][637]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-06.23.04:351][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-06.23.04:351][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-06.23.04:351][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-06.23.04:352][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-06.23.04:352][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-06.23.04:352][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-06.23.04:354][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-06.23.04:386][637]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.17-06.23.04:386][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-06.23.04:386][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-06.23.04:386][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-06.23.04:387][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.11.17-06.23.04:387][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.11.17-06.23.04:389][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.11.17-06.23.04:389][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.11.17-06.23.04:389][637]LogInit: FAudioDevice initialized with ID 20.
+[2023.11.17-06.23.04:389][637]LogAudio: Display: Audio Device (ID: 20) registered with world 'MAP_Duel'.
+[2023.11.17-06.23.04:389][637]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.17-06.23.04:391][637]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.17-06.23.04:391][637]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.16-22.23.04
+[2023.11.17-06.23.04:392][637]LogWorld: Bringing up level for play took: 0.000587
+[2023.11.17-06.23.04:394][637]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.17-06.23.04:395][637]PIE: Server logged in
+[2023.11.17-06.23.04:396][637]PIE: Play in editor total start time 0.062 seconds.
+[2023.11.17-06.23.04:396][637]LogBlueprintUserMessages: [GM_Duel_C_0] 0.008334
+[2023.11.17-06.23.04:414][638]LogBlueprintUserMessages: [GM_Duel_C_0] 0.092467
+[2023.11.17-06.23.04:474][639]LogBlueprintUserMessages: [GM_Duel_C_0] 0.152318
+[2023.11.17-06.23.04:504][640]LogBlueprintUserMessages: [GM_Duel_C_0] 0.183744
+[2023.11.17-06.23.04:513][641]LogBlueprintUserMessages: [GM_Duel_C_0] 0.192078
+[2023.11.17-06.23.04:521][642]LogBlueprintUserMessages: [GM_Duel_C_0] 0.200411
+[2023.11.17-06.23.04:529][643]LogBlueprintUserMessages: [GM_Duel_C_0] 0.208745
+[2023.11.17-06.23.04:538][644]LogBlueprintUserMessages: [GM_Duel_C_0] 0.217078
+[2023.11.17-06.23.04:546][645]LogBlueprintUserMessages: [GM_Duel_C_0] 0.225412
+[2023.11.17-06.23.04:554][646]LogBlueprintUserMessages: [GM_Duel_C_0] 0.233746
+[2023.11.17-06.23.04:563][647]LogBlueprintUserMessages: [GM_Duel_C_0] 0.242079
+[2023.11.17-06.23.04:571][648]LogBlueprintUserMessages: [GM_Duel_C_0] 0.250414
+[2023.11.17-06.23.04:579][649]LogBlueprintUserMessages: [GM_Duel_C_0] 0.258748
+[2023.11.17-06.23.04:588][650]LogBlueprintUserMessages: [GM_Duel_C_0] 0.267081
+[2023.11.17-06.23.04:597][651]LogBlueprintUserMessages: [GM_Duel_C_0] 0.275415
+[2023.11.17-06.23.04:605][652]LogBlueprintUserMessages: [GM_Duel_C_0] 0.283748
+[2023.11.17-06.23.04:614][653]LogBlueprintUserMessages: [GM_Duel_C_0] 0.292082
+[2023.11.17-06.23.04:622][654]LogBlueprintUserMessages: [GM_Duel_C_0] 0.300416
+[2023.11.17-06.23.04:630][655]LogBlueprintUserMessages: [GM_Duel_C_0] 0.308749
+[2023.11.17-06.23.04:639][656]LogBlueprintUserMessages: [GM_Duel_C_0] 0.317083
+[2023.11.17-06.23.04:647][657]LogBlueprintUserMessages: [GM_Duel_C_0] 0.325416
+[2023.11.17-06.23.04:655][658]LogBlueprintUserMessages: [GM_Duel_C_0] 0.33375
+[2023.11.17-06.23.04:664][659]LogBlueprintUserMessages: [GM_Duel_C_0] 0.342083
+[2023.11.17-06.23.04:672][660]LogBlueprintUserMessages: [GM_Duel_C_0] 0.350417
+[2023.11.17-06.23.04:680][661]LogBlueprintUserMessages: [GM_Duel_C_0] 0.35875
+[2023.11.17-06.23.04:689][662]LogBlueprintUserMessages: [GM_Duel_C_0] 0.367084
+[2023.11.17-06.23.04:699][663]LogBlueprintUserMessages: [GM_Duel_C_0] 0.378427
+[2023.11.17-06.23.04:708][664]LogBlueprintUserMessages: [GM_Duel_C_0] 0.386761
+[2023.11.17-06.23.04:716][665]LogBlueprintUserMessages: [GM_Duel_C_0] 0.395094
+[2023.11.17-06.23.04:724][666]LogBlueprintUserMessages: [GM_Duel_C_0] 0.403428
+[2023.11.17-06.23.04:733][667]LogBlueprintUserMessages: [GM_Duel_C_0] 0.411761
+[2023.11.17-06.23.04:741][668]LogBlueprintUserMessages: [GM_Duel_C_0] 0.420095
+[2023.11.17-06.23.04:749][669]LogBlueprintUserMessages: [GM_Duel_C_0] 0.428428
+[2023.11.17-06.23.04:758][670]LogBlueprintUserMessages: [GM_Duel_C_0] 0.436762
+[2023.11.17-06.23.04:766][671]LogBlueprintUserMessages: [GM_Duel_C_0] 0.445095
+[2023.11.17-06.23.04:774][672]LogBlueprintUserMessages: [GM_Duel_C_0] 0.453429
+[2023.11.17-06.23.04:782][673]LogBlueprintUserMessages: [GM_Duel_C_0] 0.461762
+[2023.11.17-06.23.04:791][674]LogBlueprintUserMessages: [GM_Duel_C_0] 0.470096
+[2023.11.17-06.23.04:799][675]LogBlueprintUserMessages: [GM_Duel_C_0] 0.478429
+[2023.11.17-06.23.04:808][676]LogBlueprintUserMessages: [GM_Duel_C_0] 0.486763
+[2023.11.17-06.23.04:816][677]LogBlueprintUserMessages: [GM_Duel_C_0] 0.495097
+[2023.11.17-06.23.04:824][678]LogBlueprintUserMessages: [GM_Duel_C_0] 0.50343
+[2023.11.17-06.23.04:833][679]LogBlueprintUserMessages: [GM_Duel_C_0] 0.511764
+[2023.11.17-06.23.04:841][680]LogBlueprintUserMessages: [GM_Duel_C_0] 0.520097
+[2023.11.17-06.23.04:850][681]LogBlueprintUserMessages: [GM_Duel_C_0] 0.528431
+[2023.11.17-06.23.04:858][682]LogBlueprintUserMessages: [GM_Duel_C_0] 0.536764
+[2023.11.17-06.23.04:867][683]LogBlueprintUserMessages: [GM_Duel_C_0] 0.545098
+[2023.11.17-06.23.04:875][684]LogBlueprintUserMessages: [GM_Duel_C_0] 0.553431
+[2023.11.17-06.23.04:883][685]LogBlueprintUserMessages: [GM_Duel_C_0] 0.561765
+[2023.11.17-06.23.04:891][686]LogBlueprintUserMessages: [GM_Duel_C_0] 0.570098
+[2023.11.17-06.23.04:899][687]LogBlueprintUserMessages: [GM_Duel_C_0] 0.578432
+[2023.11.17-06.23.04:908][688]LogBlueprintUserMessages: [GM_Duel_C_0] 0.586765
+[2023.11.17-06.23.04:916][689]LogBlueprintUserMessages: [GM_Duel_C_0] 0.595099
+[2023.11.17-06.23.04:925][690]LogBlueprintUserMessages: [GM_Duel_C_0] 0.603433
+[2023.11.17-06.23.04:933][691]LogBlueprintUserMessages: [GM_Duel_C_0] 0.611766
+[2023.11.17-06.23.04:941][692]LogBlueprintUserMessages: [GM_Duel_C_0] 0.6201
+[2023.11.17-06.23.04:950][693]LogBlueprintUserMessages: [GM_Duel_C_0] 0.628433
+[2023.11.17-06.23.04:958][694]LogBlueprintUserMessages: [GM_Duel_C_0] 0.636767
+[2023.11.17-06.23.04:967][695]LogBlueprintUserMessages: [GM_Duel_C_0] 0.6451
+[2023.11.17-06.23.04:975][696]LogBlueprintUserMessages: [GM_Duel_C_0] 0.653434
+[2023.11.17-06.23.04:983][697]LogBlueprintUserMessages: [GM_Duel_C_0] 0.661767
+[2023.11.17-06.23.04:992][698]LogBlueprintUserMessages: [GM_Duel_C_0] 0.670101
+[2023.11.17-06.23.05:000][699]LogBlueprintUserMessages: [GM_Duel_C_0] 0.678435
+[2023.11.17-06.23.05:008][700]LogBlueprintUserMessages: [GM_Duel_C_0] 0.686768
+[2023.11.17-06.23.05:017][701]LogBlueprintUserMessages: [GM_Duel_C_0] 0.695101
+[2023.11.17-06.23.05:025][702]LogBlueprintUserMessages: [GM_Duel_C_0] 0.703435
+[2023.11.17-06.23.05:033][703]LogBlueprintUserMessages: [GM_Duel_C_0] 0.711768
+[2023.11.17-06.23.05:042][704]LogBlueprintUserMessages: [GM_Duel_C_0] 0.720102
+[2023.11.17-06.23.05:050][705]LogBlueprintUserMessages: [GM_Duel_C_0] 0.728541
+[2023.11.17-06.23.05:058][706]LogBlueprintUserMessages: [GM_Duel_C_0] 0.736874
+[2023.11.17-06.23.05:066][707]LogBlueprintUserMessages: [GM_Duel_C_0] 0.745208
+[2023.11.17-06.23.05:074][708]LogBlueprintUserMessages: [GM_Duel_C_0] 0.753542
+[2023.11.17-06.23.05:083][709]LogBlueprintUserMessages: [GM_Duel_C_0] 0.761875
+[2023.11.17-06.23.05:091][710]LogBlueprintUserMessages: [GM_Duel_C_0] 0.770209
+[2023.11.17-06.23.05:099][711]LogBlueprintUserMessages: [GM_Duel_C_0] 0.778542
+[2023.11.17-06.23.05:108][712]LogBlueprintUserMessages: [GM_Duel_C_0] 0.786876
+[2023.11.17-06.23.05:116][713]LogBlueprintUserMessages: [GM_Duel_C_0] 0.79521
+[2023.11.17-06.23.05:124][714]LogBlueprintUserMessages: [GM_Duel_C_0] 0.803543
+[2023.11.17-06.23.05:133][715]LogBlueprintUserMessages: [GM_Duel_C_0] 0.811877
+[2023.11.17-06.23.05:141][716]LogBlueprintUserMessages: [GM_Duel_C_0] 0.82021
+[2023.11.17-06.23.05:149][717]LogBlueprintUserMessages: [GM_Duel_C_0] 0.828544
+[2023.11.17-06.23.05:158][718]LogBlueprintUserMessages: [GM_Duel_C_0] 0.836878
+[2023.11.17-06.23.05:166][719]LogBlueprintUserMessages: [GM_Duel_C_0] 0.845211
+[2023.11.17-06.23.05:174][720]LogBlueprintUserMessages: [GM_Duel_C_0] 0.853545
+[2023.11.17-06.23.05:183][721]LogBlueprintUserMessages: [GM_Duel_C_0] 0.861878
+[2023.11.17-06.23.05:191][722]LogBlueprintUserMessages: [GM_Duel_C_0] 0.870212
+[2023.11.17-06.23.05:199][723]LogBlueprintUserMessages: [GM_Duel_C_0] 0.878545
+[2023.11.17-06.23.05:208][724]LogBlueprintUserMessages: [GM_Duel_C_0] 0.886879
+[2023.11.17-06.23.05:216][725]LogBlueprintUserMessages: [GM_Duel_C_0] 0.895213
+[2023.11.17-06.23.05:224][726]LogBlueprintUserMessages: [GM_Duel_C_0] 0.903546
+[2023.11.17-06.23.05:233][727]LogBlueprintUserMessages: [GM_Duel_C_0] 0.91188
+[2023.11.17-06.23.05:241][728]LogBlueprintUserMessages: [GM_Duel_C_0] 0.920213
+[2023.11.17-06.23.05:249][729]LogBlueprintUserMessages: [GM_Duel_C_0] 0.928547
+[2023.11.17-06.23.05:258][730]LogBlueprintUserMessages: [GM_Duel_C_0] 0.93688
+[2023.11.17-06.23.05:266][731]LogBlueprintUserMessages: [GM_Duel_C_0] 0.945214
+[2023.11.17-06.23.05:275][732]LogBlueprintUserMessages: [GM_Duel_C_0] 0.953547
+[2023.11.17-06.23.05:283][733]LogBlueprintUserMessages: [GM_Duel_C_0] 0.961881
+[2023.11.17-06.23.05:291][734]LogBlueprintUserMessages: [GM_Duel_C_0] 0.970214
+[2023.11.17-06.23.05:300][735]LogBlueprintUserMessages: [GM_Duel_C_0] 0.978548
+[2023.11.17-06.23.05:308][736]LogBlueprintUserMessages: [GM_Duel_C_0] 0.986881
+[2023.11.17-06.23.05:317][737]LogBlueprintUserMessages: [GM_Duel_C_0] 0.995215
+[2023.11.17-06.23.05:325][738]LogBlueprintUserMessages: [GM_Duel_C_0] 1.003549
+[2023.11.17-06.23.05:333][739]LogBlueprintUserMessages: [GM_Duel_C_0] 1.011882
+[2023.11.17-06.23.05:342][740]LogBlueprintUserMessages: [GM_Duel_C_0] 1.020216
+[2023.11.17-06.23.05:350][741]LogBlueprintUserMessages: [GM_Duel_C_0] 1.028549
+[2023.11.17-06.23.05:359][742]LogBlueprintUserMessages: [GM_Duel_C_0] 1.036883
+[2023.11.17-06.23.05:367][743]LogBlueprintUserMessages: [GM_Duel_C_0] 1.045217
+[2023.11.17-06.23.05:375][744]LogBlueprintUserMessages: [GM_Duel_C_0] 1.05355
+[2023.11.17-06.23.05:383][745]LogBlueprintUserMessages: [GM_Duel_C_0] 1.061884
+[2023.11.17-06.23.05:392][746]LogBlueprintUserMessages: [GM_Duel_C_0] 1.070217
+[2023.11.17-06.23.05:403][747]LogBlueprintUserMessages: [GM_Duel_C_0] 1.080837
+[2023.11.17-06.23.05:411][748]LogBlueprintUserMessages: [GM_Duel_C_0] 1.089171
+[2023.11.17-06.23.05:419][749]LogBlueprintUserMessages: [GM_Duel_C_0] 1.097504
+[2023.11.17-06.23.05:427][750]LogBlueprintUserMessages: [GM_Duel_C_0] 1.105838
+[2023.11.17-06.23.05:436][751]LogBlueprintUserMessages: [GM_Duel_C_0] 1.114171
+[2023.11.17-06.23.05:443][752]LogBlueprintUserMessages: [GM_Duel_C_0] 1.122505
+[2023.11.17-06.23.05:451][753]LogBlueprintUserMessages: [GM_Duel_C_0] 1.130838
+[2023.11.17-06.23.05:460][754]LogBlueprintUserMessages: [GM_Duel_C_0] 1.139172
+[2023.11.17-06.23.05:469][755]LogBlueprintUserMessages: [GM_Duel_C_0] 1.147505
+[2023.11.17-06.23.05:477][756]LogBlueprintUserMessages: [GM_Duel_C_0] 1.155839
+[2023.11.17-06.23.05:485][757]LogBlueprintUserMessages: [GM_Duel_C_0] 1.164172
+[2023.11.17-06.23.05:493][758]LogBlueprintUserMessages: [GM_Duel_C_0] 1.172506
+[2023.11.17-06.23.05:502][759]LogBlueprintUserMessages: [GM_Duel_C_0] 1.180839
+[2023.11.17-06.23.05:510][760]LogBlueprintUserMessages: [GM_Duel_C_0] 1.189173
+[2023.11.17-06.23.05:518][761]LogBlueprintUserMessages: [GM_Duel_C_0] 1.197506
+[2023.11.17-06.23.05:527][762]LogBlueprintUserMessages: [GM_Duel_C_0] 1.20584
+[2023.11.17-06.23.05:535][763]LogBlueprintUserMessages: [GM_Duel_C_0] 1.214174
+[2023.11.17-06.23.05:543][764]LogBlueprintUserMessages: [GM_Duel_C_0] 1.222507
+[2023.11.17-06.23.05:552][765]LogBlueprintUserMessages: [GM_Duel_C_0] 1.230841
+[2023.11.17-06.23.05:560][766]LogBlueprintUserMessages: [GM_Duel_C_0] 1.239174
+[2023.11.17-06.23.05:568][767]LogBlueprintUserMessages: [GM_Duel_C_0] 1.247508
+[2023.11.17-06.23.05:577][768]LogBlueprintUserMessages: [GM_Duel_C_0] 1.255841
+[2023.11.17-06.23.05:585][769]LogBlueprintUserMessages: [GM_Duel_C_0] 1.264353
+[2023.11.17-06.23.05:594][770]LogBlueprintUserMessages: [GM_Duel_C_0] 1.272686
+[2023.11.17-06.23.05:602][771]LogBlueprintUserMessages: [GM_Duel_C_0] 1.28102
+[2023.11.17-06.23.05:610][772]LogBlueprintUserMessages: [GM_Duel_C_0] 1.289353
+[2023.11.17-06.23.05:619][773]LogBlueprintUserMessages: [GM_Duel_C_0] 1.297687
+[2023.11.17-06.23.05:627][774]LogBlueprintUserMessages: [GM_Duel_C_0] 1.306021
+[2023.11.17-06.23.05:635][775]LogBlueprintUserMessages: [GM_Duel_C_0] 1.314354
+[2023.11.17-06.23.05:644][776]LogBlueprintUserMessages: [GM_Duel_C_0] 1.322688
+[2023.11.17-06.23.05:652][777]LogBlueprintUserMessages: [GM_Duel_C_0] 1.331022
+[2023.11.17-06.23.05:660][778]LogBlueprintUserMessages: [GM_Duel_C_0] 1.339355
+[2023.11.17-06.23.05:669][779]LogBlueprintUserMessages: [GM_Duel_C_0] 1.347689
+[2023.11.17-06.23.05:677][780]LogBlueprintUserMessages: [GM_Duel_C_0] 1.356022
+[2023.11.17-06.23.05:685][781]LogBlueprintUserMessages: [GM_Duel_C_0] 1.364356
+[2023.11.17-06.23.05:694][782]LogBlueprintUserMessages: [GM_Duel_C_0] 1.372689
+[2023.11.17-06.23.05:702][783]LogBlueprintUserMessages: [GM_Duel_C_0] 1.381023
+[2023.11.17-06.23.05:710][784]LogBlueprintUserMessages: [GM_Duel_C_0] 1.389356
+[2023.11.17-06.23.05:718][785]LogBlueprintUserMessages: [GM_Duel_C_0] 1.39769
+[2023.11.17-06.23.05:727][786]LogBlueprintUserMessages: [GM_Duel_C_0] 1.406023
+[2023.11.17-06.23.05:735][787]LogBlueprintUserMessages: [GM_Duel_C_0] 1.414357
+[2023.11.17-06.23.05:743][788]LogBlueprintUserMessages: [GM_Duel_C_0] 1.422691
+[2023.11.17-06.23.05:752][789]LogBlueprintUserMessages: [GM_Duel_C_0] 1.431024
+[2023.11.17-06.23.05:760][790]LogBlueprintUserMessages: [GM_Duel_C_0] 1.439358
+[2023.11.17-06.23.05:768][791]LogBlueprintUserMessages: [GM_Duel_C_0] 1.447691
+[2023.11.17-06.23.05:777][792]LogBlueprintUserMessages: [GM_Duel_C_0] 1.456025
+[2023.11.17-06.23.05:785][793]LogBlueprintUserMessages: [GM_Duel_C_0] 1.464358
+[2023.11.17-06.23.05:793][794]LogBlueprintUserMessages: [GM_Duel_C_0] 1.472692
+[2023.11.17-06.23.05:802][795]LogBlueprintUserMessages: [GM_Duel_C_0] 1.481026
+[2023.11.17-06.23.05:810][796]LogBlueprintUserMessages: [GM_Duel_C_0] 1.489359
+[2023.11.17-06.23.05:819][797]LogBlueprintUserMessages: [GM_Duel_C_0] 1.497692
+[2023.11.17-06.23.05:827][798]LogBlueprintUserMessages: [GM_Duel_C_0] 1.506026
+[2023.11.17-06.23.05:835][799]LogBlueprintUserMessages: [GM_Duel_C_0] 1.51436
+[2023.11.17-06.23.05:844][800]LogBlueprintUserMessages: [GM_Duel_C_0] 1.522693
+[2023.11.17-06.23.05:852][801]LogBlueprintUserMessages: [GM_Duel_C_0] 1.531027
+[2023.11.17-06.23.05:860][802]LogBlueprintUserMessages: [GM_Duel_C_0] 1.53936
+[2023.11.17-06.23.05:869][803]LogBlueprintUserMessages: [GM_Duel_C_0] 1.547694
+[2023.11.17-06.23.05:877][804]LogBlueprintUserMessages: [GM_Duel_C_0] 1.556027
+[2023.11.17-06.23.05:885][805]LogBlueprintUserMessages: [GM_Duel_C_0] 1.56436
+[2023.11.17-06.23.05:894][806]LogBlueprintUserMessages: [GM_Duel_C_0] 1.572694
+[2023.11.17-06.23.05:902][807]LogBlueprintUserMessages: [GM_Duel_C_0] 1.581028
+[2023.11.17-06.23.05:910][808]LogBlueprintUserMessages: [GM_Duel_C_0] 1.589361
+[2023.11.17-06.23.05:919][809]LogBlueprintUserMessages: [GM_Duel_C_0] 1.597695
+[2023.11.17-06.23.05:927][810]LogBlueprintUserMessages: [GM_Duel_C_0] 1.606029
+[2023.11.17-06.23.05:935][811]LogBlueprintUserMessages: [GM_Duel_C_0] 1.614363
+[2023.11.17-06.23.05:944][812]LogBlueprintUserMessages: [GM_Duel_C_0] 1.622696
+[2023.11.17-06.23.05:952][813]LogBlueprintUserMessages: [GM_Duel_C_0] 1.63103
+[2023.11.17-06.23.05:960][814]LogBlueprintUserMessages: [GM_Duel_C_0] 1.639363
+[2023.11.17-06.23.05:969][815]LogBlueprintUserMessages: [GM_Duel_C_0] 1.647697
+[2023.11.17-06.23.05:977][816]LogBlueprintUserMessages: [GM_Duel_C_0] 1.65603
+[2023.11.17-06.23.05:985][817]LogBlueprintUserMessages: [GM_Duel_C_0] 1.664364
+[2023.11.17-06.23.05:994][818]LogBlueprintUserMessages: [GM_Duel_C_0] 1.672697
+[2023.11.17-06.23.06:002][819]LogBlueprintUserMessages: [GM_Duel_C_0] 1.681031
+[2023.11.17-06.23.06:010][820]LogBlueprintUserMessages: [GM_Duel_C_0] 1.689364
+[2023.11.17-06.23.06:018][821]LogBlueprintUserMessages: [GM_Duel_C_0] 1.697698
+[2023.11.17-06.23.06:027][822]LogBlueprintUserMessages: [GM_Duel_C_0] 1.706031
+[2023.11.17-06.23.06:035][823]LogBlueprintUserMessages: [GM_Duel_C_0] 1.714365
+[2023.11.17-06.23.06:043][824]LogBlueprintUserMessages: [GM_Duel_C_0] 1.722699
+[2023.11.17-06.23.06:052][825]LogBlueprintUserMessages: [GM_Duel_C_0] 1.731032
+[2023.11.17-06.23.06:060][826]LogBlueprintUserMessages: [GM_Duel_C_0] 1.739366
+[2023.11.17-06.23.06:068][827]LogBlueprintUserMessages: [GM_Duel_C_0] 1.747699
+[2023.11.17-06.23.06:077][828]LogBlueprintUserMessages: [GM_Duel_C_0] 1.756033
+[2023.11.17-06.23.06:085][829]LogBlueprintUserMessages: [GM_Duel_C_0] 1.764366
+[2023.11.17-06.23.06:094][830]LogBlueprintUserMessages: [GM_Duel_C_0] 1.7727
+[2023.11.17-06.23.06:102][831]LogBlueprintUserMessages: [GM_Duel_C_0] 1.781034
+[2023.11.17-06.23.06:110][832]LogBlueprintUserMessages: [GM_Duel_C_0] 1.789367
+[2023.11.17-06.23.06:119][833]LogBlueprintUserMessages: [GM_Duel_C_0] 1.797701
+[2023.11.17-06.23.06:127][834]LogBlueprintUserMessages: [GM_Duel_C_0] 1.806034
+[2023.11.17-06.23.06:135][835]LogBlueprintUserMessages: [GM_Duel_C_0] 1.814368
+[2023.11.17-06.23.06:144][836]LogBlueprintUserMessages: [GM_Duel_C_0] 1.822701
+[2023.11.17-06.23.06:152][837]LogBlueprintUserMessages: [GM_Duel_C_0] 1.831035
+[2023.11.17-06.23.06:160][838]LogBlueprintUserMessages: [GM_Duel_C_0] 1.839369
+[2023.11.17-06.23.06:169][839]LogBlueprintUserMessages: [GM_Duel_C_0] 1.847702
+[2023.11.17-06.23.06:177][840]LogBlueprintUserMessages: [GM_Duel_C_0] 1.856036
+[2023.11.17-06.23.06:185][841]LogBlueprintUserMessages: [GM_Duel_C_0] 1.864369
+[2023.11.17-06.23.06:194][842]LogBlueprintUserMessages: [GM_Duel_C_0] 1.872703
+[2023.11.17-06.23.06:202][843]LogBlueprintUserMessages: [GM_Duel_C_0] 1.881036
+[2023.11.17-06.23.06:210][844]LogBlueprintUserMessages: [GM_Duel_C_0] 1.88937
+[2023.11.17-06.23.06:219][845]LogBlueprintUserMessages: [GM_Duel_C_0] 1.897704
+[2023.11.17-06.23.06:227][846]LogBlueprintUserMessages: [GM_Duel_C_0] 1.906037
+[2023.11.17-06.23.06:236][847]LogBlueprintUserMessages: [GM_Duel_C_0] 1.914371
+[2023.11.17-06.23.06:244][848]LogBlueprintUserMessages: [GM_Duel_C_0] 1.922704
+[2023.11.17-06.23.06:252][849]LogBlueprintUserMessages: [GM_Duel_C_0] 1.931038
+[2023.11.17-06.23.06:261][850]LogBlueprintUserMessages: [GM_Duel_C_0] 1.939371
+[2023.11.17-06.23.06:269][851]LogBlueprintUserMessages: [GM_Duel_C_0] 1.947705
+[2023.11.17-06.23.06:277][852]LogBlueprintUserMessages: [GM_Duel_C_0] 1.956038
+[2023.11.17-06.23.06:286][853]LogBlueprintUserMessages: [GM_Duel_C_0] 1.964372
+[2023.11.17-06.23.06:294][854]LogBlueprintUserMessages: [GM_Duel_C_0] 1.972705
+[2023.11.17-06.23.06:302][855]LogBlueprintUserMessages: [GM_Duel_C_0] 1.981039
+[2023.11.17-06.23.06:311][856]LogBlueprintUserMessages: [GM_Duel_C_0] 1.989372
+[2023.11.17-06.23.06:319][857]LogBlueprintUserMessages: [GM_Duel_C_0] 1.997706
+[2023.11.17-06.23.06:327][858]LogBlueprintUserMessages: [GM_Duel_C_0] 2.006039
+[2023.11.17-06.23.06:335][859]LogBlueprintUserMessages: [GM_Duel_C_0] 2.014373
+[2023.11.17-06.23.06:343][860]LogBlueprintUserMessages: [GM_Duel_C_0] 2.022707
+[2023.11.17-06.23.06:352][861]LogBlueprintUserMessages: [GM_Duel_C_0] 2.03104
+[2023.11.17-06.23.06:360][862]LogBlueprintUserMessages: [GM_Duel_C_0] 2.039374
+[2023.11.17-06.23.06:368][863]LogBlueprintUserMessages: [GM_Duel_C_0] 2.047707
+[2023.11.17-06.23.06:377][864]LogBlueprintUserMessages: [GM_Duel_C_0] 2.056041
+[2023.11.17-06.23.06:385][865]LogBlueprintUserMessages: [GM_Duel_C_0] 2.064374
+[2023.11.17-06.23.06:393][866]LogBlueprintUserMessages: [GM_Duel_C_0] 2.072708
+[2023.11.17-06.23.06:402][867]LogBlueprintUserMessages: [GM_Duel_C_0] 2.081041
+[2023.11.17-06.23.06:410][868]LogBlueprintUserMessages: [GM_Duel_C_0] 2.089375
+[2023.11.17-06.23.06:418][869]LogBlueprintUserMessages: [GM_Duel_C_0] 2.097708
+[2023.11.17-06.23.06:427][870]LogBlueprintUserMessages: [GM_Duel_C_0] 2.106042
+[2023.11.17-06.23.06:435][871]LogBlueprintUserMessages: [GM_Duel_C_0] 2.114375
+[2023.11.17-06.23.06:443][872]LogBlueprintUserMessages: [GM_Duel_C_0] 2.122709
+[2023.11.17-06.23.06:452][873]LogBlueprintUserMessages: [GM_Duel_C_0] 2.131042
+[2023.11.17-06.23.06:460][874]LogBlueprintUserMessages: [GM_Duel_C_0] 2.139376
+[2023.11.17-06.23.06:469][875]LogBlueprintUserMessages: [GM_Duel_C_0] 2.147709
+[2023.11.17-06.23.06:477][876]LogBlueprintUserMessages: [GM_Duel_C_0] 2.156043
+[2023.11.17-06.23.06:485][877]LogBlueprintUserMessages: [GM_Duel_C_0] 2.164376
+[2023.11.17-06.23.06:494][878]LogBlueprintUserMessages: [GM_Duel_C_0] 2.17271
+[2023.11.17-06.23.06:502][879]LogBlueprintUserMessages: [GM_Duel_C_0] 2.181043
+[2023.11.17-06.23.06:510][880]LogBlueprintUserMessages: [GM_Duel_C_0] 2.189377
+[2023.11.17-06.23.06:519][881]LogBlueprintUserMessages: [GM_Duel_C_0] 2.19771
+[2023.11.17-06.23.06:527][882]LogBlueprintUserMessages: [GM_Duel_C_0] 2.206044
+[2023.11.17-06.23.06:535][883]LogBlueprintUserMessages: [GM_Duel_C_0] 2.214377
+[2023.11.17-06.23.06:544][884]LogBlueprintUserMessages: [GM_Duel_C_0] 2.222711
+[2023.11.17-06.23.06:552][885]LogBlueprintUserMessages: [GM_Duel_C_0] 2.231044
+[2023.11.17-06.23.06:560][886]LogBlueprintUserMessages: [GM_Duel_C_0] 2.239378
+[2023.11.17-06.23.06:569][887]LogBlueprintUserMessages: [GM_Duel_C_0] 2.247712
+[2023.11.17-06.23.06:577][888]LogBlueprintUserMessages: [GM_Duel_C_0] 2.256045
+[2023.11.17-06.23.06:586][889]LogBlueprintUserMessages: [GM_Duel_C_0] 2.264379
+[2023.11.17-06.23.06:594][890]LogBlueprintUserMessages: [GM_Duel_C_0] 2.272712
+[2023.11.17-06.23.06:602][891]LogBlueprintUserMessages: [GM_Duel_C_0] 2.281046
+[2023.11.17-06.23.06:611][892]LogBlueprintUserMessages: [GM_Duel_C_0] 2.289379
+[2023.11.17-06.23.06:619][893]LogBlueprintUserMessages: [GM_Duel_C_0] 2.297713
+[2023.11.17-06.23.06:627][894]LogBlueprintUserMessages: [GM_Duel_C_0] 2.306047
+[2023.11.17-06.23.06:636][895]LogBlueprintUserMessages: [GM_Duel_C_0] 2.31438
+[2023.11.17-06.23.06:644][896]LogBlueprintUserMessages: [GM_Duel_C_0] 2.322714
+[2023.11.17-06.23.06:652][897]LogBlueprintUserMessages: [GM_Duel_C_0] 2.331047
+[2023.11.17-06.23.06:661][898]LogBlueprintUserMessages: [GM_Duel_C_0] 2.339381
+[2023.11.17-06.23.06:669][899]LogBlueprintUserMessages: [GM_Duel_C_0] 2.347714
+[2023.11.17-06.23.06:677][900]LogBlueprintUserMessages: [GM_Duel_C_0] 2.356048
+[2023.11.17-06.23.06:686][901]LogBlueprintUserMessages: [GM_Duel_C_0] 2.364381
+[2023.11.17-06.23.06:694][902]LogBlueprintUserMessages: [GM_Duel_C_0] 2.372715
+[2023.11.17-06.23.06:702][903]LogBlueprintUserMessages: [GM_Duel_C_0] 2.381048
+[2023.11.17-06.23.06:710][904]LogBlueprintUserMessages: [GM_Duel_C_0] 2.389382
+[2023.11.17-06.23.06:718][905]LogBlueprintUserMessages: [GM_Duel_C_0] 2.397715
+[2023.11.17-06.23.06:727][906]LogBlueprintUserMessages: [GM_Duel_C_0] 2.406049
+[2023.11.17-06.23.06:735][907]LogBlueprintUserMessages: [GM_Duel_C_0] 2.414382
+[2023.11.17-06.23.06:743][908]LogBlueprintUserMessages: [GM_Duel_C_0] 2.422716
+[2023.11.17-06.23.06:752][909]LogBlueprintUserMessages: [GM_Duel_C_0] 2.431049
+[2023.11.17-06.23.06:760][910]LogBlueprintUserMessages: [GM_Duel_C_0] 2.439383
+[2023.11.17-06.23.06:768][911]LogBlueprintUserMessages: [GM_Duel_C_0] 2.447716
+[2023.11.17-06.23.06:777][912]LogBlueprintUserMessages: [GM_Duel_C_0] 2.45605
+[2023.11.17-06.23.06:785][913]LogBlueprintUserMessages: [GM_Duel_C_0] 2.464383
+[2023.11.17-06.23.06:793][914]LogBlueprintUserMessages: [GM_Duel_C_0] 2.472717
+[2023.11.17-06.23.06:802][915]LogBlueprintUserMessages: [GM_Duel_C_0] 2.48105
+[2023.11.17-06.23.06:810][916]LogBlueprintUserMessages: [GM_Duel_C_0] 2.489384
+[2023.11.17-06.23.06:818][917]LogBlueprintUserMessages: [GM_Duel_C_0] 2.497718
+[2023.11.17-06.23.06:827][918]LogBlueprintUserMessages: [GM_Duel_C_0] 2.506051
+[2023.11.17-06.23.06:835][919]LogBlueprintUserMessages: [GM_Duel_C_0] 2.514385
+[2023.11.17-06.23.06:844][920]LogBlueprintUserMessages: [GM_Duel_C_0] 2.522719
+[2023.11.17-06.23.06:852][921]LogBlueprintUserMessages: [GM_Duel_C_0] 2.531052
+[2023.11.17-06.23.06:860][922]LogBlueprintUserMessages: [GM_Duel_C_0] 2.539386
+[2023.11.17-06.23.06:869][923]LogBlueprintUserMessages: [GM_Duel_C_0] 2.547719
+[2023.11.17-06.23.06:877][924]LogBlueprintUserMessages: [GM_Duel_C_0] 2.556052
+[2023.11.17-06.23.06:885][925]LogBlueprintUserMessages: [GM_Duel_C_0] 2.564386
+[2023.11.17-06.23.06:894][926]LogBlueprintUserMessages: [GM_Duel_C_0] 2.572719
+[2023.11.17-06.23.06:902][927]LogBlueprintUserMessages: [GM_Duel_C_0] 2.581053
+[2023.11.17-06.23.06:910][928]LogBlueprintUserMessages: [GM_Duel_C_0] 2.589387
+[2023.11.17-06.23.06:919][929]LogBlueprintUserMessages: [GM_Duel_C_0] 2.59772
+[2023.11.17-06.23.06:927][930]LogBlueprintUserMessages: [GM_Duel_C_0] 2.606054
+[2023.11.17-06.23.06:936][931]LogBlueprintUserMessages: [GM_Duel_C_0] 2.614387
+[2023.11.17-06.23.06:944][932]LogBlueprintUserMessages: [GM_Duel_C_0] 2.622721
+[2023.11.17-06.23.06:952][933]LogBlueprintUserMessages: [GM_Duel_C_0] 2.631054
+[2023.11.17-06.23.06:961][934]LogBlueprintUserMessages: [GM_Duel_C_0] 2.639388
+[2023.11.17-06.23.06:969][935]LogBlueprintUserMessages: [GM_Duel_C_0] 2.647721
+[2023.11.17-06.23.06:977][936]LogBlueprintUserMessages: [GM_Duel_C_0] 2.656055
+[2023.11.17-06.23.06:986][937]LogBlueprintUserMessages: [GM_Duel_C_0] 2.664388
+[2023.11.17-06.23.06:994][938]LogBlueprintUserMessages: [GM_Duel_C_0] 2.672722
+[2023.11.17-06.23.07:002][939]LogBlueprintUserMessages: [GM_Duel_C_0] 2.681055
+[2023.11.17-06.23.07:011][940]LogBlueprintUserMessages: [GM_Duel_C_0] 2.689389
+[2023.11.17-06.23.07:019][941]LogBlueprintUserMessages: [GM_Duel_C_0] 2.697722
+[2023.11.17-06.23.07:027][942]LogBlueprintUserMessages: [GM_Duel_C_0] 2.706056
+[2023.11.17-06.23.07:036][943]LogBlueprintUserMessages: [GM_Duel_C_0] 2.714389
+[2023.11.17-06.23.07:044][944]LogBlueprintUserMessages: [GM_Duel_C_0] 2.722723
+[2023.11.17-06.23.07:128][954]LogBlueprintUserMessages: [GM_Duel_C_0] 2.731056
+[2023.11.17-06.23.07:161][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.23.07:161][954]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.23.07:161][954]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-06.23.07:162][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.23.07:167][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-06.23.07:172][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.23.07:186][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.23.07:187][954]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.17-06.23.07:187][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.17-06.23.07:188][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.17-06.23.07:195][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.17-06.23.07:230][957]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.17-06.25.05:208][183]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.17-06.25.05:223][183]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.17-06.25.05:235][184]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.17-06.25.06:657][255]LogContentBrowser: Attempting asset rename: NewFolder -> E
+[2023.11.17-06.25.06:658][255]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.17-06.25.09:852][504]LogContentBrowser: Attempting asset rename: E -> Enums
+[2023.11.17-06.25.16:432][683]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.11.17-06.25.20:512][973]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.11.17-06.25.20:520][973]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.11.17-06.25.20:543][975]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2023.11.17-06.25.20:944][ 24]LogDerivedDataCache: C:/Users/atter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.274 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 674 files in 1152 folders with total size 5 MiB.
+[2023.11.17-06.25.23:180][292]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_Phase
+[2023.11.17-06.25.23:186][292]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.11.17-06.25.24:740][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.25.24:770][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enums/E_Phase" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset" SILENT=true
+[2023.11.17-06.25.24:772][476]LogSavePackage: Moving output files for package: /Game/Blueprints/Enums/E_Phase
+[2023.11.17-06.25.24:772][476]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/E_Phase359341424582FDD61FA62383A36C3842.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset'
+[2023.11.17-06.25.24:779][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.53 sec)
+[2023.11.17-06.25.24:781][476]AssetCheck: New page: Asset Save: E_Phase
+[2023.11.17-06.25.24:781][476]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Blueprints/Enums/E_Phase.E_Phase
+[2023.11.17-06.25.25:385][547]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Enums/E_Phase.E_Phase
+[2023.11.17-06.25.34:496][767]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2023.11.17-06.26.33:013][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.26.33:039][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enums/E_Phase" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset" SILENT=true
+[2023.11.17-06.26.33:040][676]LogSavePackage: Moving output files for package: /Game/Blueprints/Enums/E_Phase
+[2023.11.17-06.26.33:040][676]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/E_PhaseA8D0C0D148BCA78FBB687EADA5403A6C.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset'
+[2023.11.17-06.26.33:046][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.56 sec)
+[2023.11.17-06.26.33:049][676]AssetCheck: New page: Asset Save: E_Phase
+[2023.11.17-06.26.33:049][676]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Blueprints/Enums/E_Phase.E_Phase
+[2023.11.17-06.27.00:723][851]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.27.00:755][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.17-06.27.06:149][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.17-06.27.06:154][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.27.06:173][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.27.06:177][ 97]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.27.06:178][ 97]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_DuelC695C8BD4F7E3BC00CA4E8AC841F787C.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.27.06:183][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.59 sec)
+[2023.11.17-06.27.06:187][ 97]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.27.06:187][ 97]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.28.16:609][ 15]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.28.16:636][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.17-06.28.17:059][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.17-06.28.17:065][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.28.17:092][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.28.17:097][ 58]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.28.17:097][ 58]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_Duel790AAFEF4736F3B50A06D6A0941A9831.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.28.17:105][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.63 sec)
+[2023.11.17-06.28.17:108][ 58]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.28.17:108][ 58]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.28.21:316][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.17-06.28.21:321][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.28.21:346][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.28.21:350][345]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.28.21:350][345]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_Duel83BDD27E47F612709611B083EA6D7AF9.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.28.21:357][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.67 sec)
+[2023.11.17-06.28.21:365][345]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.28.21:365][345]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.28.21:905][408]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.28.21:932][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.17-06.28.42:107][297]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.28.42:133][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.11.17-06.28.42:739][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.17-06.28.42:744][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.28.42:776][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.28.42:780][362]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.28.42:781][362]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_Duel64FA3EDD491F282B008467ADE208C476.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.28.42:789][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.71 sec)
+[2023.11.17-06.28.42:790][362]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.28.42:790][362]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.31.45:652][240]LogEditorTransaction: Undo Move Nodes
+[2023.11.17-06.31.56:321][  5]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.31.56:349][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.17-06.31.56:775][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.17-06.31.56:780][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.31.56:800][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.31.56:808][ 49]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.31.56:808][ 49]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_Duel3F51D2964C9D98B39C52978A80AC8B3C.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.31.56:815][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.75 sec)
+[2023.11.17-06.31.56:817][ 49]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.31.56:817][ 49]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.31.58:068][197]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-06.31.58:072][197]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.17-06.31.58:087][197]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.11.17-06.31.58:120][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.17-06.31.58:120][197]LogPlayLevel: PlayLevel: Blueprint regeneration took 49 ms (1 blueprints)
+[2023.11.17-06.31.58:120][197]PIE: New page: PIE session: MAP_Duel (Nov 16, 2023, 2:31:58 PM)
+[2023.11.17-06.31.58:121][197]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.31.58:122][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001183s)
+[2023.11.17-06.31.58:122][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001225s)
+[2023.11.17-06.31.58:134][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.17-06.31.58:135][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.31.58:135][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.31.58:136][197]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.17-06.31.58:136][197]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2023.11.17-06.31.58:136][197]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.11.17-06.31.58:136][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-06.31.58:136][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-06.31.58:136][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-06.31.58:136][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-06.31.58:136][197]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-06.31.58:136][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-06.31.58:136][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-06.31.58:136][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-06.31.58:137][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-06.31.58:137][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-06.31.58:137][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-06.31.58:139][197]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-06.31.58:172][197]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.17-06.31.58:172][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-06.31.58:172][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-06.31.58:172][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-06.31.58:174][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.11.17-06.31.58:174][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.11.17-06.31.58:177][197]LogInit: FAudioDevice initialized with ID 21.
+[2023.11.17-06.31.58:177][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.11.17-06.31.58:177][197]LogAudio: Display: Audio Device (ID: 21) registered with world 'MAP_Duel'.
+[2023.11.17-06.31.58:177][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.11.17-06.31.58:177][197]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.17-06.31.58:180][197]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.17-06.31.58:180][197]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.16-22.31.58
+[2023.11.17-06.31.58:180][197]LogWorld: Bringing up level for play took: 0.000650
+[2023.11.17-06.31.58:183][197]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.11.17-06.31.58:184][197]PIE: Server logged in
+[2023.11.17-06.31.58:185][197]PIE: Play in editor total start time 0.114 seconds.
+[2023.11.17-06.31.59:822][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.31.59:822][380]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.31.59:822][380]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-06.31.59:822][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.31.59:835][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-06.31.59:839][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.31.59:852][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.17-06.31.59:852][380]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.17-06.31.59:852][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.17-06.31.59:854][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.17-06.31.59:859][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.31.59:861][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.17-06.31.59:925][381]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.11.17-06.32.00:215][415]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-06.32.00:219][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-06.32.00:219][415]PIE: New page: PIE session: MAP_Duel (Nov 16, 2023, 2:32:00 PM)
+[2023.11.17-06.32.00:219][415]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.32.00:220][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001113s)
+[2023.11.17-06.32.00:220][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001146s)
+[2023.11.17-06.32.00:235][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.17-06.32.00:236][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.32.00:236][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.32.00:237][415]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.17-06.32.00:237][415]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2023.11.17-06.32.00:237][415]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.11.17-06.32.00:237][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-06.32.00:237][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-06.32.00:237][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-06.32.00:237][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-06.32.00:237][415]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-06.32.00:237][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-06.32.00:237][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-06.32.00:237][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-06.32.00:238][415]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-06.32.00:238][415]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-06.32.00:238][415]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-06.32.00:240][415]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-06.32.00:274][415]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.17-06.32.00:274][415]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-06.32.00:274][415]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-06.32.00:274][415]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-06.32.00:274][415]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.11.17-06.32.00:275][415]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.11.17-06.32.00:277][415]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.11.17-06.32.00:277][415]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.11.17-06.32.00:277][415]LogInit: FAudioDevice initialized with ID 22.
+[2023.11.17-06.32.00:277][415]LogAudio: Display: Audio Device (ID: 22) registered with world 'MAP_Duel'.
+[2023.11.17-06.32.00:277][415]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.17-06.32.00:279][415]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.17-06.32.00:280][415]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.16-22.32.00
+[2023.11.17-06.32.00:280][415]LogWorld: Bringing up level for play took: 0.000606
+[2023.11.17-06.32.00:283][415]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.11.17-06.32.00:284][415]PIE: Server logged in
+[2023.11.17-06.32.00:284][415]PIE: Play in editor total start time 0.065 seconds.
+[2023.11.17-06.32.01:341][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.32.01:341][528]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.32.01:341][528]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-06.32.01:342][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.32.01:347][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-06.32.01:351][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.32.01:364][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.32.01:365][528]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.17-06.32.01:365][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.17-06.32.01:366][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.17-06.32.01:373][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.17-06.32.01:436][529]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.11.17-06.33.52:650][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.17-06.33.52:655][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.33.52:682][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.33.52:689][ 34]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.33.52:690][ 34]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_Duel5312BC5D4E849737839D4D934D79E15D.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.33.52:696][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.79 sec)
+[2023.11.17-06.33.52:699][ 34]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.33.52:699][ 34]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.33.53:889][172]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.33.53:927][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.11.17-06.33.55:025][297]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-06.33.55:030][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-06.33.55:030][297]PIE: New page: PIE session: MAP_Duel (Nov 16, 2023, 2:33:55 PM)
+[2023.11.17-06.33.55:031][297]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.33.55:032][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001198s)
+[2023.11.17-06.33.55:032][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001240s)
+[2023.11.17-06.33.55:052][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.11.17-06.33.55:055][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.33.55:055][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.33.55:056][297]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.17-06.33.55:056][297]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2023.11.17-06.33.55:056][297]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.11.17-06.33.55:056][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-06.33.55:056][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-06.33.55:056][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-06.33.55:056][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-06.33.55:056][297]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-06.33.55:056][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-06.33.55:056][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-06.33.55:056][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-06.33.55:058][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-06.33.55:058][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-06.33.55:058][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-06.33.55:061][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-06.33.55:106][297]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.17-06.33.55:106][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-06.33.55:106][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-06.33.55:106][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-06.33.55:106][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.11.17-06.33.55:106][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.11.17-06.33.55:109][297]LogInit: FAudioDevice initialized with ID 23.
+[2023.11.17-06.33.55:109][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.11.17-06.33.55:109][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.11.17-06.33.55:109][297]LogAudio: Display: Audio Device (ID: 23) registered with world 'MAP_Duel'.
+[2023.11.17-06.33.55:109][297]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.17-06.33.55:113][297]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.17-06.33.55:113][297]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.16-22.33.55
+[2023.11.17-06.33.55:113][297]LogWorld: Bringing up level for play took: 0.000623
+[2023.11.17-06.33.55:116][297]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.11.17-06.33.55:117][297]PIE: Server logged in
+[2023.11.17-06.33.55:118][297]PIE: Play in editor total start time 0.088 seconds.
+[2023.11.17-06.33.59:944][864]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.34.02:642][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.34.02:642][180]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.34.02:642][180]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-06.34.02:642][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.34.02:647][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-06.34.02:652][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.34.02:666][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.34.02:666][180]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.17-06.34.02:667][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.17-06.34.02:668][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.17-06.34.02:675][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.17-06.34.02:738][181]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.11.17-06.35.52:998][123]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.11.17-06.35.55:671][400]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.35.55:701][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.17-06.35.56:102][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.17-06.35.56:107][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.35.56:130][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.35.56:137][440]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.35.56:138][440]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_Duel053A1F984503537B9829D9842B281C57.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.35.56:146][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.83 sec)
+[2023.11.17-06.35.56:148][440]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.35.56:148][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.35.58:362][705]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-06.35.58:366][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-06.35.58:366][705]PIE: New page: PIE session: MAP_Duel (Nov 16, 2023, 2:35:58 PM)
+[2023.11.17-06.35.58:366][705]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.35.58:368][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001105s)
+[2023.11.17-06.35.58:368][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001140s)
+[2023.11.17-06.35.58:383][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.17-06.35.58:384][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.35.58:385][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.35.58:385][705]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.17-06.35.58:386][705]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2023.11.17-06.35.58:386][705]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.11.17-06.35.58:386][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-06.35.58:386][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-06.35.58:386][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-06.35.58:386][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-06.35.58:386][705]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-06.35.58:386][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-06.35.58:386][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-06.35.58:386][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-06.35.58:386][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-06.35.58:386][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-06.35.58:386][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-06.35.58:389][705]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-06.35.58:422][705]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.17-06.35.58:422][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-06.35.58:422][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-06.35.58:422][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-06.35.58:423][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.11.17-06.35.58:423][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.11.17-06.35.58:425][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.11.17-06.35.58:425][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.11.17-06.35.58:425][705]LogInit: FAudioDevice initialized with ID 24.
+[2023.11.17-06.35.58:425][705]LogAudio: Display: Audio Device (ID: 24) registered with world 'MAP_Duel'.
+[2023.11.17-06.35.58:425][705]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.17-06.35.58:429][705]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.17-06.35.58:430][705]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.16-22.35.58
+[2023.11.17-06.35.58:430][705]LogWorld: Bringing up level for play took: 0.000718
+[2023.11.17-06.35.58:432][705]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.11.17-06.35.58:433][705]PIE: Server logged in
+[2023.11.17-06.35.58:434][705]PIE: Play in editor total start time 0.068 seconds.
+[2023.11.17-06.36.02:011][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.36.02:011][810]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.36.02:012][810]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-06.36.02:012][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.36.02:017][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-06.36.02:021][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.36.02:036][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.36.02:036][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.17-06.36.02:037][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.17-06.36.02:039][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.17-06.36.02:055][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.17-06.36.02:133][811]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.11.17-06.36.31:928][471]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.17-06.36.31:938][471]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.17-06.36.31:946][471]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.17-06.36.31:957][472]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.17-06.36.38:816][289]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Exclamation
+[2023.11.17-06.36.38:822][289]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.17-06.36.41:473][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.36.41:503][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Exclamation" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset" SILENT=true
+[2023.11.17-06.36.41:506][604]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Exclamation
+[2023.11.17-06.36.41:506][604]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Exclamation7D88E48A4572D212C58F3B96597249FD.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset'
+[2023.11.17-06.36.41:516][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.87 sec)
+[2023.11.17-06.36.41:517][604]AssetCheck: New page: Asset Save: BP_Exclamation
+[2023.11.17-06.36.41:517][604]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Exclamation.BP_Exclamation
+[2023.11.17-06.36.41:963][657]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Exclamation.BP_Exclamation
+[2023.11.17-06.36.41:963][657]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.36.41:963][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.36.42:148][657]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.11.17-06.36.59:946][992]BlueprintLog: New page: Compile BP_Exclamation
+[2023.11.17-06.36.59:975][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.11.17-06.37.00:332][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.17-06.37.00:336][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.37.00:366][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Exclamation" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset" SILENT=true
+[2023.11.17-06.37.00:385][ 16]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Exclamation
+[2023.11.17-06.37.00:386][ 16]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_ExclamationB6E6C0C14B9FB59AC08DB69968FB9C36.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset'
+[2023.11.17-06.37.00:392][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.92 sec)
+[2023.11.17-06.37.00:396][ 16]AssetCheck: New page: Asset Save: BP_Exclamation
+[2023.11.17-06.37.00:396][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Exclamation.BP_Exclamation
+[2023.11.17-06.37.34:064][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.17-06.37.34:070][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.37.34:100][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Exclamation" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset" SILENT=true
+[2023.11.17-06.37.34:103][ 44]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Exclamation
+[2023.11.17-06.37.34:104][ 44]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Exclamation4DC7585E4692EC352DBE3F9222B24B0F.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset'
+[2023.11.17-06.37.34:110][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.97 sec)
+[2023.11.17-06.37.34:114][ 44]AssetCheck: New page: Asset Save: BP_Exclamation
+[2023.11.17-06.37.34:114][ 44]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Exclamation.BP_Exclamation
+[2023.11.17-06.37.34:500][ 90]BlueprintLog: New page: Compile BP_Exclamation
+[2023.11.17-06.37.34:530][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.17-06.37.35:243][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.17-06.37.39:649][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Exclamation.BP_Exclamation_C
+[2023.11.17-06.37.39:649][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Exclamation.BP_Exclamation_C
+[2023.11.17-06.37.39:652][589]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Exclamation.BP_Exclamation as actor: BP_Exclamation_C /Game/Maps/MAP_Duel.MAP_Duel:PersistentLevel.BP_Exclamation_C_0
+[2023.11.17-06.37.39:653][589]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Exclamation.BP_Exclamation as actor: BP_Exclamation_C /Game/Maps/MAP_Duel.MAP_Duel:PersistentLevel.BP_Exclamation_C_0
+[2023.11.17-06.37.40:366][667]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Exclamation.BP_Exclamation_C
+[2023.11.17-06.37.40:366][667]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Exclamation.BP_Exclamation_C
+[2023.11.17-06.37.40:368][667]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Exclamation.BP_Exclamation as actor: BP_Exclamation_C /Game/Maps/MAP_Duel.MAP_Duel:PersistentLevel.BP_Exclamation_C_1
+[2023.11.17-06.37.40:369][667]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Exclamation.BP_Exclamation as actor: BP_Exclamation_C /Game/Maps/MAP_Duel.MAP_Duel:PersistentLevel.BP_Exclamation_C_1
+[2023.11.17-06.37.52:286][652]LogEditorViewport: Clicking Background
+[2023.11.17-06.39.52:384][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.17-06.39.52:390][ 62]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Duel_Auto2
+[2023.11.17-06.39.52:390][ 62]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/MAP_Duel_Auto2CDC6B2EA4AC50EFCEDF992B6AE2C96EE.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/Autosaves/Game/Maps/MAP_Duel_Auto2.umap'
+[2023.11.17-06.39.52:391][ 62]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/Autosaves/Game/Maps/MAP_Duel_Auto2.umap is in the /Temp path, will not scan.
+[2023.11.17-06.39.52:391][ 62]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Duel_Auto2 is in the /Temp path, will not scan.
+[2023.11.17-06.39.52:391][ 62]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Duel_Auto2 is in the /Temp path, will not scan.
+[2023.11.17-06.39.52:391][ 62]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Duel' took 0.024
+[2023.11.17-06.39.52:391][ 62]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2023.11.17-06.39.52:392][ 62]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Exclamation] ([2] browsable assets)...
+[2023.11.17-06.39.52:392][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Exclamation]
+[2023.11.17-06.39.52:396][ 62]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Exclamation_Auto2
+[2023.11.17-06.39.52:396][ 62]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Exclamation_Auto22608A9D34D94AFFCC42324BD06DC4DC2.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/Autosaves/Game/Blueprints/BP_Exclamation_Auto2.uasset'
+[2023.11.17-06.39.52:396][ 62]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.11.17-06.40.35:181][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.40.35:206][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Exclamation" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset" SILENT=true
+[2023.11.17-06.40.35:210][345]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Exclamation
+[2023.11.17-06.40.35:210][345]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_ExclamationC92030F049EA0366A6B54FA9ABB95A4A.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset'
+[2023.11.17-06.40.35:217][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 2.00 sec)
+[2023.11.17-06.40.35:219][345]AssetCheck: New page: Asset Save: BP_Exclamation
+[2023.11.17-06.40.35:219][345]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Exclamation.BP_Exclamation
+[2023.11.17-06.40.35:928][430]BlueprintLog: New page: Compile BP_Exclamation
+[2023.11.17-06.40.35:959][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.17-06.40.37:431][581]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-06.40.37:435][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-06.40.37:435][581]PIE: New page: PIE session: MAP_Duel (Nov 16, 2023, 2:40:37 PM)
+[2023.11.17-06.40.37:435][581]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.40.37:437][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001131s)
+[2023.11.17-06.40.37:437][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001161s)
+[2023.11.17-06.40.37:452][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.17-06.40.37:454][581]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.40.37:454][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.40.37:455][581]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.17-06.40.37:455][581]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2023.11.17-06.40.37:455][581]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.11.17-06.40.37:455][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-06.40.37:455][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-06.40.37:455][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-06.40.37:455][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-06.40.37:455][581]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-06.40.37:455][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-06.40.37:455][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-06.40.37:455][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-06.40.37:456][581]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-06.40.37:456][581]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-06.40.37:456][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-06.40.37:459][581]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-06.40.37:500][581]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.17-06.40.37:501][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-06.40.37:501][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-06.40.37:501][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-06.40.37:502][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.11.17-06.40.37:502][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.11.17-06.40.37:503][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.11.17-06.40.37:503][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.11.17-06.40.37:503][581]LogInit: FAudioDevice initialized with ID 25.
+[2023.11.17-06.40.37:503][581]LogAudio: Display: Audio Device (ID: 25) registered with world 'MAP_Duel'.
+[2023.11.17-06.40.37:504][581]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.11.17-06.40.37:506][581]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.17-06.40.37:507][581]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.16-22.40.37
+[2023.11.17-06.40.37:507][581]LogWorld: Bringing up level for play took: 0.000905
+[2023.11.17-06.40.37:510][581]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.11.17-06.40.37:511][581]PIE: Server logged in
+[2023.11.17-06.40.37:512][581]PIE: Play in editor total start time 0.077 seconds.
+[2023.11.17-06.40.41:894][ 98]LogBlueprintUserMessages: [GM_Duel_C_0] Hello
+[2023.11.17-06.40.43:712][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.40.43:712][312]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.40.43:713][312]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-06.40.43:713][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.40.43:718][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-06.40.43:723][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.40.43:738][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.17-06.40.43:738][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.11.17-06.40.43:738][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.11.17-06.40.43:740][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.11.17-06.40.43:746][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.40.43:748][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.17-06.40.43:785][315]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.11.17-06.42.59:954][383]BlueprintLog: New page: Compile GM_Duel
+[2023.11.17-06.42.59:987][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.17-06.43.00:374][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.43.00:399][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset" SILENT=true
+[2023.11.17-06.43.00:409][414]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Duel
+[2023.11.17-06.43.00:409][414]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/GM_DuelF27DAE44481F76CC143CFD9602D36D7F.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset'
+[2023.11.17-06.43.00:416][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 2.04 sec)
+[2023.11.17-06.43.00:419][414]AssetCheck: New page: Asset Save: GM_Duel
+[2023.11.17-06.43.00:419][414]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Duel.GM_Duel
+[2023.11.17-06.43.01:811][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-06.43.01:815][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-06.43.01:815][578]PIE: New page: PIE session: MAP_Duel (Nov 16, 2023, 2:43:01 PM)
+[2023.11.17-06.43.01:815][578]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.43.01:817][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001097s)
+[2023.11.17-06.43.01:817][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001127s)
+[2023.11.17-06.43.01:834][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.17-06.43.01:837][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-06.43.01:837][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-06.43.01:838][578]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.17-06.43.01:838][578]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2023.11.17-06.43.01:838][578]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.11.17-06.43.01:838][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-06.43.01:838][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-06.43.01:838][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-06.43.01:838][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-06.43.01:838][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-06.43.01:838][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-06.43.01:838][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-06.43.01:838][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-06.43.01:839][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-06.43.01:839][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-06.43.01:839][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-06.43.01:841][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-06.43.01:875][578]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.17-06.43.01:875][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-06.43.01:875][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-06.43.01:875][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-06.43.01:876][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.11.17-06.43.01:876][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.11.17-06.43.01:878][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.11.17-06.43.01:878][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.11.17-06.43.01:878][578]LogInit: FAudioDevice initialized with ID 26.
+[2023.11.17-06.43.01:878][578]LogAudio: Display: Audio Device (ID: 26) registered with world 'MAP_Duel'.
+[2023.11.17-06.43.01:878][578]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.11.17-06.43.01:880][578]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.17-06.43.01:881][578]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.16-22.43.01
+[2023.11.17-06.43.01:881][578]LogWorld: Bringing up level for play took: 0.000640
+[2023.11.17-06.43.01:884][578]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.11.17-06.43.01:886][578]PIE: Server logged in
+[2023.11.17-06.43.01:886][578]PIE: Play in editor total start time 0.071 seconds.
+[2023.11.17-06.43.11:472][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.43.11:472][713]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.17-06.43.11:472][713]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-06.43.11:472][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.43.11:478][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-06.43.11:483][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-06.43.11:500][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-06.43.11:500][713]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.11.17-06.43.11:500][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.11.17-06.43.11:502][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.11.17-06.43.11:508][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.17-06.43.11:540][714]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.11.17-06.43.45:201][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.17-06.43.45:207][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-06.43.45:237][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Duel" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Maps/MAP_Duel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.17-06.43.45:277][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.11.17-06.43.45:281][455]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Duel
+[2023.11.17-06.43.45:282][455]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/MAP_Duel8FAADCEF426F84A1689C1D8FF1BDBF78.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Maps/MAP_Duel.umap'
+[2023.11.17-06.43.45:290][455]LogFileHelpers: Saving map 'MAP_Duel' took 0.053
+[2023.11.17-06.43.45:297][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.13 sec)
+[2023.11.17-06.43.45:298][455]AssetCheck: New page: Asset Save: MAP_Duel
+[2023.11.17-06.43.45:298][455]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Duel.MAP_Duel
