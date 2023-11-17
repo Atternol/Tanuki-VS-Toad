@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Background/T_Background.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Misc/T_Cross.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Misc/T_Exclamation.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated.uasset"
+			]
+		}
+	]
+}
