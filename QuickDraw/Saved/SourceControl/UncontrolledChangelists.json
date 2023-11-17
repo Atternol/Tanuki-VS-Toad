@@ -9,7 +9,22 @@
 				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Misc/T_Cross.uasset",
 				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Misc/T_Exclamation.uasset",
 				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack.uasset",
-				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated.uasset"
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Idle.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Toad/T_Toad_Attack.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Background/T_Background_Sprite.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Misc/T_Cross_Sprite.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Misc/T_Exclamation_Sprite.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack_Sprite.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated_Sprite.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Idle_Sprite.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Toad/T_Toad_Attack_Sprite.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated_Sprite.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle_Sprite.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Maps/MAP_Duel.umap",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset"
 			]
 		}
 	]
