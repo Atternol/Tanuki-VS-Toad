@@ -24,7 +24,9 @@
 				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated_Sprite.uasset",
 				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle_Sprite.uasset",
 				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Maps/MAP_Duel.umap",
-				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset"
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset"
 			]
 		}
 	]
