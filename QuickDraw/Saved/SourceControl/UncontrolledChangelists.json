@@ -29,7 +29,9 @@
 				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset",
 				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/GM_Duel.uasset",
 				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset",
-				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset"
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Exclamation.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Input/Actions/IA_Attack.uasset",
+				"Q:/GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Input/IMC_Duel.uasset"
 			]
 		}
 	]
