@@ -6932,3 +6932,461 @@ Script call stack:
 [2023.11.18-09.29.10:230][973]AssetCheck: New page: Asset Save: multiple assets
 [2023.11.18-09.29.10:230][973]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Duel.MAP_Duel
 [2023.11.18-09.29.10:230][973]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai.BP_Samurai
+[2023.11.18-09.30.53:281][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.18-09.33.50:770][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-09.33.50:779][288]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.18-09.33.50:787][288]LogPlayLevel: [PlayLevel] Compiling BP_Samurai before play...
+[2023.11.18-09.33.50:787][288]LogPlayLevel: [PlayLevel]   Compiling BP_Samurai_NPC as a dependent...
+[2023.11.18-09.33.50:787][288]LogPlayLevel: [PlayLevel]   Compiling BP_Samurai_Player as a dependent...
+[2023.11.18-09.33.50:879][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.18-09.33.50:883][288]LogPlayLevel: PlayLevel: Blueprint regeneration took 103 ms (3 blueprints)
+[2023.11.18-09.33.50:883][288]PIE: New page: PIE session: MAP_Duel (Nov 17, 2023, 5:33:50 PM)
+[2023.11.18-09.33.50:920][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.33.50:922][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001727s)
+[2023.11.18-09.33.50:922][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001766s)
+[2023.11.18-09.33.50:937][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.18-09.33.50:938][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-09.33.50:939][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-09.33.50:939][288]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.18-09.33.50:939][288]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2023.11.18-09.33.50:939][288]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2023.11.18-09.33.50:939][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-09.33.50:939][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-09.33.50:939][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-09.33.50:939][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-09.33.50:939][288]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-09.33.50:939][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-09.33.50:939][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-09.33.50:939][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-09.33.50:940][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-09.33.50:940][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-09.33.50:940][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-09.33.50:943][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-09.33.50:974][288]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.18-09.33.50:975][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-09.33.50:975][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-09.33.50:975][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-09.33.50:976][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2023.11.18-09.33.50:976][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2023.11.18-09.33.50:978][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2023.11.18-09.33.50:978][288]LogInit: FAudioDevice initialized with ID 77.
+[2023.11.18-09.33.50:978][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2023.11.18-09.33.50:978][288]LogAudio: Display: Audio Device (ID: 77) registered with world 'MAP_Duel'.
+[2023.11.18-09.33.50:978][288]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2023.11.18-09.33.50:981][288]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.18-09.33.50:982][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.18-01.33.50
+[2023.11.18-09.33.50:982][288]LogWorld: Bringing up level for play took: 0.000822
+[2023.11.18-09.33.50:985][288]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2023.11.18-09.33.50:986][288]PIE: Server logged in
+[2023.11.18-09.33.50:986][288]PIE: Play in editor total start time 0.21 seconds.
+[2023.11.18-09.33.52:061][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.33.52:061][407]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.33.52:061][407]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-09.33.52:061][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.33.52:065][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-09.33.52:070][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.33.52:086][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.33.52:086][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2023.11.18-09.33.52:086][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.11.18-09.33.52:088][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.11.18-09.33.52:094][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.18-09.33.52:174][408]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.11.18-09.33.58:607][156]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-09.33.58:615][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-09.33.58:615][156]PIE: New page: PIE session: MAP_Duel (Nov 17, 2023, 5:33:58 PM)
+[2023.11.18-09.33.58:640][156]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.33.58:642][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001844s)
+[2023.11.18-09.33.58:642][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001884s)
+[2023.11.18-09.33.58:659][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.11.18-09.33.58:663][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-09.33.58:663][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-09.33.58:663][156]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.18-09.33.58:664][156]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2023.11.18-09.33.58:664][156]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2023.11.18-09.33.58:664][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-09.33.58:664][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-09.33.58:664][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-09.33.58:664][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-09.33.58:664][156]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-09.33.58:664][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-09.33.58:664][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-09.33.58:664][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-09.33.58:664][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-09.33.58:664][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-09.33.58:664][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-09.33.58:666][156]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-09.33.58:698][156]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.18-09.33.58:698][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-09.33.58:698][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-09.33.58:698][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-09.33.58:699][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2023.11.18-09.33.58:699][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2023.11.18-09.33.58:701][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2023.11.18-09.33.58:701][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2023.11.18-09.33.58:701][156]LogInit: FAudioDevice initialized with ID 78.
+[2023.11.18-09.33.58:701][156]LogAudio: Display: Audio Device (ID: 78) registered with world 'MAP_Duel'.
+[2023.11.18-09.33.58:701][156]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2023.11.18-09.33.58:704][156]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.18-09.33.58:705][156]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.18-01.33.58
+[2023.11.18-09.33.58:705][156]LogWorld: Bringing up level for play took: 0.000985
+[2023.11.18-09.33.58:707][156]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2023.11.18-09.33.58:709][156]PIE: Server logged in
+[2023.11.18-09.33.58:709][156]PIE: Play in editor total start time 0.097 seconds.
+[2023.11.18-09.34.02:801][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.34.02:801][636]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.34.02:802][636]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-09.34.02:802][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.34.02:806][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-09.34.02:810][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.34.02:826][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.34.02:826][636]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2023.11.18-09.34.02:827][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.11.18-09.34.02:828][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.11.18-09.34.02:836][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.18-09.34.02:906][637]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.11.18-09.39.15:830][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.18-09.39.15:833][516]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Duel' took 0.019
+[2023.11.18-09.39.15:833][516]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Samurai] ([2] browsable assets)...
+[2023.11.18-09.39.15:833][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Samurai]
+[2023.11.18-09.39.15:850][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Samurai_Auto8
+[2023.11.18-09.39.15:850][516]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Samurai_Auto84ACE5D5040A9DA862A93C085BE282358.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/Autosaves/Game/Blueprints/BP_Samurai_Auto8.uasset'
+[2023.11.18-09.39.15:851][516]LogFileHelpers: Auto-saving content packages took 0.017
+[2023.11.18-09.39.58:830][646]LogWindowsTextInputMethodSystem: Activated input method: Russian (Russia) - (Keyboard).
+[2023.11.18-09.39.58:830][646]LogWindowsTextInputMethodSystem: Activated input method: Russian (Russia) - (Keyboard).
+[2023.11.18-09.40.31:069][958]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.11.18-09.40.31:069][958]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.11.18-09.41.15:154][749]BlueprintLog: New page: Compile BP_Samurai
+[2023.11.18-09.41.15:203][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.18-09.41.16:251][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.18-09.41.16:257][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-09.41.16:282][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset" SILENT=true
+[2023.11.18-09.41.16:300][862]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai
+[2023.11.18-09.41.16:301][862]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Samurai816AB789433994B890A4F5A79737CA4F.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset'
+[2023.11.18-09.41.16:307][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.53 sec)
+[2023.11.18-09.41.16:310][862]AssetCheck: New page: Asset Save: BP_Samurai
+[2023.11.18-09.41.16:310][862]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai.BP_Samurai
+[2023.11.18-09.41.36:457][856]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.11.18-09.41.42:750][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.18-09.41.42:757][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-09.41.42:782][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset" SILENT=true
+[2023.11.18-09.41.42:799][357]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai
+[2023.11.18-09.41.42:799][357]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_SamuraiC3D998384B87528D4EE3C9A72B809493.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset'
+[2023.11.18-09.41.42:808][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.58 sec)
+[2023.11.18-09.41.42:809][357]AssetCheck: New page: Asset Save: BP_Samurai
+[2023.11.18-09.41.42:809][357]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai.BP_Samurai
+[2023.11.18-09.41.43:649][458]BlueprintLog: New page: Compile BP_Samurai
+[2023.11.18-09.41.43:698][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.18-09.41.47:774][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-09.41.47:783][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-09.41.47:783][798]PIE: New page: PIE session: MAP_Duel (Nov 17, 2023, 5:41:47 PM)
+[2023.11.18-09.41.47:783][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.41.47:785][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001733s)
+[2023.11.18-09.41.47:785][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001768s)
+[2023.11.18-09.41.47:800][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.18-09.41.47:804][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-09.41.47:804][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-09.41.47:804][798]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.18-09.41.47:805][798]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2023.11.18-09.41.47:805][798]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2023.11.18-09.41.47:805][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-09.41.47:805][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-09.41.47:805][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-09.41.47:805][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-09.41.47:805][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-09.41.47:805][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-09.41.47:805][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-09.41.47:805][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-09.41.47:805][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-09.41.47:805][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-09.41.47:805][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-09.41.47:808][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-09.41.47:839][798]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.18-09.41.47:840][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-09.41.47:840][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-09.41.47:840][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-09.41.47:841][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2023.11.18-09.41.47:841][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2023.11.18-09.41.47:842][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2023.11.18-09.41.47:843][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2023.11.18-09.41.47:843][798]LogInit: FAudioDevice initialized with ID 79.
+[2023.11.18-09.41.47:843][798]LogAudio: Display: Audio Device (ID: 79) registered with world 'MAP_Duel'.
+[2023.11.18-09.41.47:843][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2023.11.18-09.41.47:846][798]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.18-09.41.47:846][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.18-01.41.47
+[2023.11.18-09.41.47:847][798]LogWorld: Bringing up level for play took: 0.000832
+[2023.11.18-09.41.47:849][798]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2023.11.18-09.41.47:851][798]PIE: Server logged in
+[2023.11.18-09.41.47:851][798]PIE: Play in editor total start time 0.072 seconds.
+[2023.11.18-09.41.53:106][419]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.11.18-09.41.56:701][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.41.56:701][846]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.41.56:701][846]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-09.41.56:701][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.41.56:706][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-09.41.56:711][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.41.56:725][846]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-09.41.56:725][846]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2023.11.18-09.41.56:725][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2023.11.18-09.41.56:728][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2023.11.18-09.41.56:732][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.41.56:735][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.18-09.41.56:814][847]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2023.11.18-09.41.58:503][ 43]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-09.41.58:509][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-09.41.58:510][ 43]PIE: New page: PIE session: MAP_Duel (Nov 17, 2023, 5:41:58 PM)
+[2023.11.18-09.41.58:530][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.41.58:532][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001609s)
+[2023.11.18-09.41.58:532][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001649s)
+[2023.11.18-09.41.58:548][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.18-09.41.58:551][ 43]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-09.41.58:551][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-09.41.58:551][ 43]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.18-09.41.58:551][ 43]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2023.11.18-09.41.58:551][ 43]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2023.11.18-09.41.58:551][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-09.41.58:551][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-09.41.58:551][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-09.41.58:551][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-09.41.58:551][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-09.41.58:551][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-09.41.58:552][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-09.41.58:552][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-09.41.58:552][ 43]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-09.41.58:552][ 43]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-09.41.58:552][ 43]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-09.41.58:554][ 43]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-09.41.58:587][ 43]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.18-09.41.58:587][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-09.41.58:587][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-09.41.58:587][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-09.41.58:587][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2023.11.18-09.41.58:587][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2023.11.18-09.41.58:590][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2023.11.18-09.41.58:590][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2023.11.18-09.41.58:590][ 43]LogInit: FAudioDevice initialized with ID 80.
+[2023.11.18-09.41.58:590][ 43]LogAudio: Display: Audio Device (ID: 80) registered with world 'MAP_Duel'.
+[2023.11.18-09.41.58:590][ 43]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2023.11.18-09.41.58:592][ 43]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.18-09.41.58:593][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.18-01.41.58
+[2023.11.18-09.41.58:593][ 43]LogWorld: Bringing up level for play took: 0.000792
+[2023.11.18-09.41.58:595][ 43]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2023.11.18-09.41.58:597][ 43]PIE: Server logged in
+[2023.11.18-09.41.58:597][ 43]PIE: Play in editor total start time 0.088 seconds.
+[2023.11.18-09.42.03:940][677]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.11.18-09.42.12:320][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.42.12:320][677]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.42.12:320][677]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-09.42.12:320][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.42.12:325][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-09.42.12:330][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.42.12:345][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.42.12:345][677]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2023.11.18-09.42.12:345][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.11.18-09.42.12:347][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.11.18-09.42.12:354][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.18-09.42.12:431][678]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2023.11.18-09.46.01:353][868]BlueprintLog: New page: Compile BP_Samurai
+[2023.11.18-09.46.01:412][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.18-09.46.01:965][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.18-09.46.01:972][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-09.46.01:994][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset" SILENT=true
+[2023.11.18-09.46.02:012][911]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai
+[2023.11.18-09.46.02:012][911]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Samurai2F270B484EAE9708F48838BCFEC87E70.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset'
+[2023.11.18-09.46.02:021][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.63 sec)
+[2023.11.18-09.46.02:023][911]AssetCheck: New page: Asset Save: BP_Samurai
+[2023.11.18-09.46.02:024][911]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai.BP_Samurai
+[2023.11.18-09.46.03:439][ 76]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-09.46.03:447][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-09.46.03:447][ 76]PIE: New page: PIE session: MAP_Duel (Nov 17, 2023, 5:46:03 PM)
+[2023.11.18-09.46.03:480][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.46.03:482][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001782s)
+[2023.11.18-09.46.03:482][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001840s)
+[2023.11.18-09.46.03:496][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.18-09.46.03:498][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-09.46.03:499][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-09.46.03:499][ 76]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.18-09.46.03:499][ 76]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2023.11.18-09.46.03:499][ 76]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2023.11.18-09.46.03:500][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-09.46.03:500][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-09.46.03:500][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-09.46.03:500][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-09.46.03:500][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-09.46.03:500][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-09.46.03:500][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-09.46.03:500][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-09.46.03:500][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-09.46.03:500][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-09.46.03:500][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-09.46.03:503][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-09.46.03:533][ 76]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.18-09.46.03:533][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-09.46.03:533][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-09.46.03:533][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-09.46.03:534][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2023.11.18-09.46.03:534][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2023.11.18-09.46.03:536][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2023.11.18-09.46.03:536][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2023.11.18-09.46.03:536][ 76]LogInit: FAudioDevice initialized with ID 81.
+[2023.11.18-09.46.03:536][ 76]LogAudio: Display: Audio Device (ID: 81) registered with world 'MAP_Duel'.
+[2023.11.18-09.46.03:536][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2023.11.18-09.46.03:539][ 76]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.18-09.46.03:540][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.18-01.46.03
+[2023.11.18-09.46.03:540][ 76]LogWorld: Bringing up level for play took: 0.000893
+[2023.11.18-09.46.03:542][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2023.11.18-09.46.03:544][ 76]PIE: Server logged in
+[2023.11.18-09.46.03:544][ 76]PIE: Play in editor total start time 0.1 seconds.
+[2023.11.18-09.46.09:313][759]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.11.18-09.46.10:810][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.46.10:810][934]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-09.46.10:810][934]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-09.46.10:810][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.46.10:816][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-09.46.10:820][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-09.46.10:835][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-09.46.10:835][934]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2023.11.18-09.46.10:835][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.11.18-09.46.10:837][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.11.18-09.46.10:844][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.18-09.46.10:924][935]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2023.11.18-09.49.47:944][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.18-09.49.47:947][251]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Duel' took 0.021
+[2023.11.18-09.49.47:947][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Samurai] ([2] browsable assets)...
+[2023.11.18-09.49.47:947][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Samurai]
+[2023.11.18-09.49.47:965][251]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Samurai_Auto9
+[2023.11.18-09.49.47:965][251]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Samurai_Auto917E6BB1E4B1964A2D0A5D48AC3A5AF4D.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/Autosaves/Game/Blueprints/BP_Samurai_Auto9.uasset'
+[2023.11.18-09.49.47:965][251]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.11.18-09.58.55:619][310]LogDerivedDataCache: C:/Users/atter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.095 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 707 files in 1195 folders with total size 6 MiB.
+[2023.11.18-10.05.43:964][747]BlueprintLog: New page: Compile BP_Samurai
+[2023.11.18-10.05.44:025][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.18-10.05.44:796][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.11.18-10.05.44:802][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.05.44:829][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset" SILENT=true
+[2023.11.18-10.05.44:847][826]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai
+[2023.11.18-10.05.44:847][826]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_Samurai74199D35447287068AC1B78EC6F4806C.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset'
+[2023.11.18-10.05.44:856][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.69 sec)
+[2023.11.18-10.05.44:857][826]AssetCheck: New page: Asset Save: BP_Samurai
+[2023.11.18-10.05.44:857][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai.BP_Samurai
+[2023.11.18-10.06.11:919][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.18-10.06.11:925][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.06.11:956][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Samurai" FILE="../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset" SILENT=true
+[2023.11.18-10.06.11:973][ 62]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Samurai
+[2023.11.18-10.06.11:973][ 62]LogSavePackage: Moving '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Saved/BP_SamuraiE1A55AFD4C02CEB8F90B0EBB5F1197B6.tmp' to '../../../../../../GitHub/Games/TanukiVSToad-Samurais-2D-Game/QuickDraw/Content/Blueprints/BP_Samurai.uasset'
+[2023.11.18-10.06.11:981][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.74 sec)
+[2023.11.18-10.06.11:982][ 62]AssetCheck: New page: Asset Save: BP_Samurai
+[2023.11.18-10.06.11:982][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Samurai.BP_Samurai
+[2023.11.18-10.06.12:693][147]BlueprintLog: New page: Compile BP_Samurai
+[2023.11.18-10.06.12:740][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.18-10.06.23:728][304]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.06.23:736][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.06.23:736][304]PIE: New page: PIE session: MAP_Duel (Nov 17, 2023, 6:06:23 PM)
+[2023.11.18-10.06.23:768][304]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-10.06.23:770][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001656s)
+[2023.11.18-10.06.23:770][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001693s)
+[2023.11.18-10.06.23:785][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.18-10.06.23:789][304]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.06.23:789][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.06.23:789][304]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.18-10.06.23:790][304]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2023.11.18-10.06.23:790][304]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2023.11.18-10.06.23:790][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.06.23:790][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.06.23:790][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.06.23:790][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.06.23:790][304]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.06.23:790][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.06.23:790][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.06.23:790][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.06.23:791][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.06.23:791][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.06.23:791][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.06.23:793][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.06.23:824][304]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.18-10.06.23:824][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.06.23:824][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.06.23:825][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.06.23:825][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2023.11.18-10.06.23:825][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2023.11.18-10.06.23:827][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2023.11.18-10.06.23:828][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2023.11.18-10.06.23:828][304]LogInit: FAudioDevice initialized with ID 82.
+[2023.11.18-10.06.23:828][304]LogAudio: Display: Audio Device (ID: 82) registered with world 'MAP_Duel'.
+[2023.11.18-10.06.23:828][304]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2023.11.18-10.06.23:831][304]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.18-10.06.23:831][304]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.18-02.06.23
+[2023.11.18-10.06.23:832][304]LogWorld: Bringing up level for play took: 0.000819
+[2023.11.18-10.06.23:834][304]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2023.11.18-10.06.23:835][304]PIE: Server logged in
+[2023.11.18-10.06.23:836][304]PIE: Play in editor total start time 0.102 seconds.
+[2023.11.18-10.06.27:744][766]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.11.18-10.06.29:539][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.06.29:539][977]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-10.06.29:539][977]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.06.29:539][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.06.29:544][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.06.29:549][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.06.29:563][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-10.06.29:563][977]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2023.11.18-10.06.29:563][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.11.18-10.06.29:565][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.11.18-10.06.29:570][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.06.29:572][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.18-10.06.29:651][978]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2023.11.18-10.06.30:865][118]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.06.30:871][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.06.30:871][118]PIE: New page: PIE session: MAP_Duel (Nov 17, 2023, 6:06:30 PM)
+[2023.11.18-10.06.30:918][118]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-10.06.30:920][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001614s)
+[2023.11.18-10.06.30:920][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Duel.MAP_Duel to /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel (0.001652s)
+[2023.11.18-10.06.30:932][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.18-10.06.30:935][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.06.30:935][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.06.30:936][118]LogAIModule: Creating AISystem for world MAP_Duel
+[2023.11.18-10.06.30:936][118]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2023.11.18-10.06.30:936][118]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2023.11.18-10.06.30:936][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.06.30:936][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.06.30:936][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.06.30:936][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.06.30:936][118]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.06.30:936][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.06.30:936][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.06.30:936][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.06.30:937][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.06.30:937][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.06.30:937][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.06.30:939][118]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.06.30:969][118]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.11.18-10.06.30:970][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.06.30:970][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.06.30:970][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.06.30:970][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2023.11.18-10.06.30:970][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2023.11.18-10.06.30:973][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2023.11.18-10.06.30:973][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2023.11.18-10.06.30:973][118]LogInit: FAudioDevice initialized with ID 83.
+[2023.11.18-10.06.30:973][118]LogAudio: Display: Audio Device (ID: 83) registered with world 'MAP_Duel'.
+[2023.11.18-10.06.30:973][118]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2023.11.18-10.06.30:975][118]LogLoad: Game class is 'GM_Duel_C'
+[2023.11.18-10.06.30:976][118]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Duel.MAP_Duel up for play (max tick rate 0) at 2023.11.18-02.06.30
+[2023.11.18-10.06.30:976][118]LogWorld: Bringing up level for play took: 0.000769
+[2023.11.18-10.06.30:978][118]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2023.11.18-10.06.30:979][118]PIE: Server logged in
+[2023.11.18-10.06.30:980][118]PIE: Play in editor total start time 0.109 seconds.
+[2023.11.18-10.06.34:986][592]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.11.18-10.06.35:769][686]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.11.18-10.06.35:970][710]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.11.18-10.06.36:170][734]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.11.18-10.06.36:353][756]LogBlueprintUserMessages: [BP_Samurai_C_1] Attack
+[2023.11.18-10.06.36:478][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.06.36:478][768]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Duel
+[2023.11.18-10.06.36:478][768]LogWorld: UWorld::CleanupWorld for MAP_Duel, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.06.36:478][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.06.36:483][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.06.36:487][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.06.36:502][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.06.36:502][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2023.11.18-10.06.36:503][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.11.18-10.06.36:505][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.11.18-10.06.36:512][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.18-10.06.36:590][769]LogPlayLevel: Display: Destroying online subsystem :Context_96
