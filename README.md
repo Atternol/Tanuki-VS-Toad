@@ -12,4 +12,4 @@ You can press SpaceBar to make attack.
 
 Press the attack as soon as you'll see exclamation mark in the center of your screen.
 
-##GL! 💜
+## GL! 💜
