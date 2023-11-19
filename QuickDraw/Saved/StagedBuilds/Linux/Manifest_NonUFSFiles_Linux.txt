@@ -1,4 +1,0 @@
-Engine/Binaries/Linux/UnrealGame-Linux-Shipping	2023-11-16T07:02:24.791Z
-QuickDraw.sh	2023-11-19T05:54:14.112Z
-Engine/Binaries/ThirdParty/MsQuic/v220/linux/libmsquic.so	2023-10-06T23:34:47.262Z
-Engine/Binaries/ThirdParty/MsQuic/v220/linux/libmsquic.so.2	2023-10-06T23:34:47.298Z
