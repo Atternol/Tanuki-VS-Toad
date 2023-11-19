@@ -10,7 +10,7 @@ https://github.com/Atternol/Tanuki-VS-Toad/assets/81165905/6af76362-0ebc-4a8f-b7
 ## Links
 
 - For [Windows](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Atternol/Tanuki-VS-Toad/tree/main/Tanuki%20VS%20Toad%20-%20Samurai%20Edition/Tanuki%20Duel%20(Windows)) version
-- For [Linux](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Atternol/Tanuki-VS-Toad/tree/main/Tanuki%20VS%20Toad%20-%20Samurai%20Edition/Tanuki%20Duel%20(Linux)) version
+- For [Linux (doesn't work for now!)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Atternol/Tanuki-VS-Toad/tree/main/Tanuki%20VS%20Toad%20-%20Samurai%20Edition/Tanuki%20Duel%20(Linux)) version
 
 ## Description
 
